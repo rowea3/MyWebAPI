@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rowea3WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d84beb8e55109574939cd20d416cfed328a93aff")]
 [assembly: System.Reflection.AssemblyProductAttribute("rowea3WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rowea3WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
